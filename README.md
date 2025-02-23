@@ -1,5 +1,5 @@
 # STM32-Joystick-module
-This is a simple code for using an analog Joystick module with an STM32 Microcontroller, the full tutorial video is available on YouTube: 
+This is a simple code for using an analog Joystick module with an STM32 Microcontroller, the full tutorial video is available on YouTube: https://youtu.be/rQGIqen2qxA
 
 
     /* Private includes ----------------------------------------------------------*/
